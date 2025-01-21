@@ -7,7 +7,7 @@
         "js-cookie": "^3.0.5",
         "react-cookie": "^7.1.4",
     ```
-# x
+  
 - npm start
 
 # 통신
